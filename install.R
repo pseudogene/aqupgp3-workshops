@@ -2,7 +2,6 @@ if (!requireNamespace("BiocManager"))
     install.packages("BiocManager");
 BiocManager::install("SNPassoc");
 
-install.packages("units");
 install.packages("ape");
 install.packages("adegenet");
 install.packages("poppr");
