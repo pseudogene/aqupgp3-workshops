@@ -1,10 +1,11 @@
-if (!requireNamespace("BiocManager", quietly = TRUE))
+if (!requireNamespace("BiocManager"))
     install.packages("BiocManager");
 BiocManager::install("SNPassoc");
-install.packages("poppr", quietly = TRUE);
-install.packages("vcfR", quietly = TRUE);
-install.packages("ape", quietly = TRUE);
-install.packages("adegenet", quietly = TRUE);
-install.packages("RColorBrewer", quietly = TRUE);
-install.packages("tidyr", quietly = TRUE);
-install.packages("ggplot2", quietly = TRUE);
+
+install.packages("ape");
+install.packages("adegenet");
+install.packages("poppr");
+install.packages("vcfR");
+install.packages("RColorBrewer");
+install.packages("tidyr");
+install.packages("ggplot2");
