@@ -1,125 +1,125 @@
-sample	father	mother	sex	origin
-CB_008	0	0	M	Iceland
-CB_013	0	0	M	Iceland
-CB_016	0	0	M	Iceland
-CB_018	0	0	M	Iceland
-CB_022	0	0	M	Iceland
-CB_030	0	0	M	Iceland
-CB_032	0	0	M	Iceland
-CB_035	0	0	M	Iceland
-CB_041	0	0	M	Iceland
-CB_045	0	0	M	Iceland
-CB_093	0	0	M	Iceland
-CB_103	0	0	M	Iceland
-CB_109	0	0	M	Iceland
-CB_116	0	0	M	Iceland
-ICE1_001	0	0	M	Iceland
-ICE1_002	0	0	M	Iceland
-ICE1_003	0	0	M	Iceland
-ICE1_007	0	0	M	Iceland
-ICE1_010	0	0	M	Iceland
-ICE1_011	0	0	M	Iceland
-ICE1_012	0	0	M	Iceland
-ICE1_013	0	0	M	Iceland
-ICE1_016	0	0	M	Iceland
-ICE1_024	0	0	M	Iceland
-ICE1_030	0	0	M	Iceland
-ICE2_002	0	0	M	Iceland
-ICE2_006	0	0	M	Iceland
-ICE2_009	0	0	M	Iceland
-ICE2_010	0	0	M	Iceland
-ICE2_017	0	0	M	Iceland
-ICE2_023	0	0	M	Iceland
-ICE2_030	0	0	M	Iceland
-ICE2_032	0	0	M	Iceland
-ICE2_035	0	0	M	Iceland
-ICE2_038	0	0	M	Iceland
-ICE3_001	0	0	M	Iceland
-ICE3_003	0	0	M	Iceland
-ICE3_027	0	0	M	Iceland
-ICE3_038	0	0	M	Iceland
-F01	0	0	M	Norway
-F02	0	0	M	Norway
-F03	0	0	M	Norway
-F04	0	0	M	Norway
-F05	0	0	M	Norway
-F06	0	0	M	Norway
-F07	0	0	M	Norway
-F08	0	0	M	Norway
-F09	0	0	M	Norway
-F10	0	0	M	Norway
-F11	0	0	M	Norway
-F12	0	0	M	Norway
-F13	0	0	M	Norway
-F14	0	0	M	Norway
-F15	0	0	M	Norway
-F16	0	0	M	Norway
-F17	0	0	M	Norway
-F18	0	0	M	Norway
-F19	0	0	M	Norway
-F20	0	0	M	Norway
-F21	0	0	M	Norway
-F22	0	0	M	Norway
-M01	0	0	M	Norway
-M02	0	0	M	Norway
-M03	0	0	M	Norway
-M04	0	0	M	Norway
-M05	0	0	M	Norway
-M06	0	0	M	Norway
-M07	0	0	M	Norway
-M08	0	0	M	Norway
-M09	0	0	M	Norway
-M10	0	0	M	Norway
-M11	0	0	M	Norway
-M12	0	0	M	Norway
-M13	0	0	M	Norway
-M14	0	0	M	Norway
-N_181	0	0	M	Norway
-N_190	0	0	M	Norway
-N_191	0	0	M	Norway
-N_192	0	0	M	Norway
-N_197	0	0	M	Norway
-N_198	0	0	M	Norway
-N_207	0	0	M	Norway
-SWB_001	0	0	M	Out_Hebrides
-SWB_002	0	0	M	Out_Hebrides
-SWB_003	0	0	M	Out_Hebrides
-SWB_004	0	0	M	Out_Hebrides
-SWB_005	0	0	M	Out_Hebrides
-SWB_006	0	0	M	Out_Hebrides
-SWB_007	0	0	M	Out_Hebrides
-SWB_008	0	0	M	Out_Hebrides
-SWB_009	0	0	M	Out_Hebrides
-SWB_010	0	0	M	Out_Hebrides
-SWB_011	0	0	M	Out_Hebrides
-SWB_012	0	0	M	Out_Hebrides
-SWB_013	0	0	M	Out_Hebrides
-SWB_014	0	0	M	Out_Hebrides
-SWB_015	0	0	M	Out_Hebrides
-SWB_016	0	0	M	Out_Hebrides
-SWB_017	0	0	M	Out_Hebrides
-SWB_018	0	0	M	Out_Hebrides
-SWB_019	0	0	M	Out_Hebrides
-SWB_020	0	0	M	Out_Hebrides
-SWB_021	0	0	M	Out_Hebrides
-SWB_023	0	0	M	Out_Hebrides
-SWB_025	0	0	M	Out_Hebrides
-SWB_026	0	0	M	Out_Hebrides
-SWB_027	0	0	M	Out_Hebrides
-SWB_028	0	0	M	Out_Hebrides
-SWB_029	0	0	M	Out_Hebrides
-SWB_030	0	0	M	Out_Hebrides
-SWB_031	0	0	M	Out_Hebrides
-SWB_032	0	0	M	Out_Hebrides
-SWB_033	0	0	M	Out_Hebrides
-SWB_034	0	0	M	Out_Hebrides
-SWB_036	0	0	M	Out_Hebrides
-SWB_037	0	0	M	Out_Hebrides
-SWB_038	0	0	M	Out_Hebrides
-SWB_039	0	0	M	Out_Hebrides
-SWB_040	0	0	M	Out_Hebrides
-SWB_041	0	0	M	Out_Hebrides
-SWB_042	0	0	M	Out_Hebrides
-SWB_043	0	0	M	Out_Hebrides
-SWB_049	0	0	M	Out_Hebrides
-SWB_050	0	0	M	Out_Hebrides
+sample	sex	origin
+CB_008	M	Iceland
+CB_013	M	Iceland
+CB_016	M	Iceland
+CB_018	M	Iceland
+CB_022	M	Iceland
+CB_030	M	Iceland
+CB_032	M	Iceland
+CB_035	M	Iceland
+CB_041	M	Iceland
+CB_045	M	Iceland
+CB_093	F	Iceland
+CB_103	F	Iceland
+CB_109	F	Iceland
+CB_116	F	Iceland
+ICE1_001	F	Iceland
+ICE1_002	F	Iceland
+ICE1_003	F	Iceland
+ICE1_007	F	Iceland
+ICE1_010	M	Iceland
+ICE1_011	M	Iceland
+ICE1_012	M	Iceland
+ICE1_013	F	Iceland
+ICE1_016	M	Iceland
+ICE1_024	F	Iceland
+ICE1_030	M	Iceland
+ICE2_002	F	Iceland
+ICE2_006	M	Iceland
+ICE2_009	M	Iceland
+ICE2_010	M	Iceland
+ICE2_017	F	Iceland
+ICE2_023	M	Iceland
+ICE2_030	F	Iceland
+ICE2_032	F	Iceland
+ICE2_035	F	Iceland
+ICE2_038	M	Iceland
+ICE3_001	M	Iceland
+ICE3_003	F	Iceland
+ICE3_027	F	Iceland
+ICE3_038	M	Iceland
+F01	F	Norway
+F02	F	Norway
+F03	F	Norway
+F04	F	Norway
+F05	F	Norway
+F06	F	Norway
+F07	F	Norway
+F08	F	Norway
+F09	F	Norway
+F10	F	Norway
+F11	F	Norway
+F12	F	Norway
+F13	F	Norway
+F14	F	Norway
+F15	F	Norway
+F16	F	Norway
+F17	F	Norway
+F18	F	Norway
+F19	F	Norway
+F20	F	Norway
+F21	F	Norway
+F22	F	Norway
+M01	F	Norway
+M02	F	Norway
+M03	M	Norway
+M04	M	Norway
+M05	M	Norway
+M06	M	Norway
+M07	M	Norway
+M08	M	Norway
+M09	M	Norway
+M10	M	Norway
+M11	M	Norway
+M12	M	Norway
+M13	M	Norway
+M14	M	Norway
+N_181	F	Norway
+N_190	M	Norway
+N_191	M	Norway
+N_192	M	Norway
+N_197	F	Norway
+N_198	F	Norway
+N_207	M	Norway
+SWB_001	F	Out_Hebrides
+SWB_002	M	Out_Hebrides
+SWB_003	F	Out_Hebrides
+SWB_004	F	Out_Hebrides
+SWB_005	F	Out_Hebrides
+SWB_006	F	Out_Hebrides
+SWB_007	M	Out_Hebrides
+SWB_008	F	Out_Hebrides
+SWB_009	F	Out_Hebrides
+SWB_010	F	Out_Hebrides
+SWB_011	F	Out_Hebrides
+SWB_012	F	Out_Hebrides
+SWB_013	F	Out_Hebrides
+SWB_014	F	Out_Hebrides
+SWB_015	F	Out_Hebrides
+SWB_016	M	Out_Hebrides
+SWB_017	M	Out_Hebrides
+SWB_018	F	Out_Hebrides
+SWB_019	F	Out_Hebrides
+SWB_020	F	Out_Hebrides
+SWB_021	F	Out_Hebrides
+SWB_023	F	Out_Hebrides
+SWB_025	M	Out_Hebrides
+SWB_026	F	Out_Hebrides
+SWB_027	F	Out_Hebrides
+SWB_028	F	Out_Hebrides
+SWB_029	M	Out_Hebrides
+SWB_030	F	Out_Hebrides
+SWB_031	F	Out_Hebrides
+SWB_032	M	Out_Hebrides
+SWB_033	M	Out_Hebrides
+SWB_034	M	Out_Hebrides
+SWB_036	F	Out_Hebrides
+SWB_037	F	Out_Hebrides
+SWB_038	F	Out_Hebrides
+SWB_039	F	Out_Hebrides
+SWB_040	M	Out_Hebrides
+SWB_041	M	Out_Hebrides
+SWB_042	F	Out_Hebrides
+SWB_043	F	Out_Hebrides
+SWB_049	M	Out_Hebrides
+SWB_050	F	Out_Hebrides

@@ -1,0 +1,288 @@
+sample	sex	type 	Total_length	Standard_length 	Weight
+10Q-036	F	Progeny	41	35	3.22
+10Q-042	F	Progeny	54	47	6.06
+10Q-059	F	Progeny	64	55	9.68
+10Q-064	F	Progeny	56	50	8.43
+10Q-077	F	Progeny	43	37	3.52
+10Q-082	F	Progeny	57	49	8
+10Q-098	F	Progeny	55	48	6.96
+10Q-204	F	Progeny	97	82	42.05
+10Q-209	F	Progeny	75	64	19.06
+10Q-215	F	Progeny	74	64	16.53
+10Q-217	F	Progeny	70	60	16.88
+10Q-218	F	Progeny	70	60	15.2
+10Q-219	F	Progeny	83	74	25.68
+10Q-221	F	Progeny	70	60	14.11
+10Q-222	F	Progeny	74	64	17.31
+10Q-226	F	Progeny	92	80	32.36
+10Q-228	F	Progeny	85	71	25.92
+10Q-231	F	Progeny	66	58	14.23
+10Q-232	F	Progeny	65	57	13.98
+10Q-234	F	Progeny	71	60	14.56
+10Q-236	F	Progeny	74	62	17.83
+10Q-242	F	Progeny	87	75	28.23
+10Q-243	F	Progeny	107	90	51.25
+10Q-247	F	Progeny	76	66	19.2
+10Q-249	F	Progeny	81	70	28.72
+10Q-250	F	Progeny	84	72	23.21
+10Q-253	F	Progeny	76	65	18.75
+10Q-255	F	Progeny	80	68	20.14
+10Q-266	F	Progeny	74	64	19.74
+10Q-267	F	Progeny	87	74	24.13
+10Q-268	F	Progeny	76	65	21.24
+10Q-270	F	Progeny	103	89	46.13
+10Q-272	F	Progeny	73	64	16.7
+10Q-279	F	Progeny	85	74	25.82
+10Q-281	F	Progeny	91	79	28.92
+10Q-283	F	Progeny	81	70	21.07
+10Q-291	F	Progeny	91	78	34.97
+10Q-292	F	Progeny	73	63	16.25
+10Q-300	F	Progeny	73	63	14.99
+F18	F	Parent	458	376	3100
+11Q-038	F	Progeny	47	41	4.23
+11Q-068	F	Progeny	46	41	4.4
+11Q-204	F	Progeny	69	62	16.06
+11Q-207	F	Progeny	65	57	13.67
+11Q-208	F	Progeny	65	57	12.23
+11Q-223	F	Progeny	71	62	15.79
+11Q-225	F	Progeny	77	69	21.43
+11Q-230	F	Progeny	64	56	12.42
+11Q-233	F	Progeny	71	63	15.83
+11Q-241	F	Progeny	74	66	19.47
+11Q-242	F	Progeny	65	57	12.16
+11Q-244	F	Progeny	86	75	27.57
+11Q-246	F	Progeny	57	50	8.68
+11Q-247	F	Progeny	60	53	10.16
+11Q-249	F	Progeny	59	54	10.85
+11Q-255	F	Progeny	65	60	14.65
+11Q-258	F	Progeny	97	85	43.82
+11Q-276	F	Progeny	69	62	14.47
+11Q-278	F	Progeny	69	63	17.44
+11Q-279	F	Progeny	67	61	14.86
+11Q-286	F	Progeny	85	77	22.22
+11Q-287	F	Progeny	78	68	19.11
+11Q-290	F	Progeny	83	74	24.77
+11Q-292	F	Progeny	100	90	42.25
+11Q-293	F	Progeny	92	82	35.73
+F19	F	Parent	430	360	2080
+F20	F	Other parent	450	370	3340
+F21	F	Other parent	448	370	3460
+F22	F	Other parent	445	365	3860
+F01	F	Other parent	423	355	3360
+M01	F	Other parent	358	288	1500
+F02	F	Other parent	410	340	3440
+M02	F	Other parent	460	333	2020
+3Q-004	F	Progeny	51	44	6.62
+3Q-023	F	Progeny	55	47	6.59
+3Q-035	F	Progeny	64	56	13.76
+3Q-042	F	Progeny	57	48	8.32
+3Q-050	F	Progeny	55	47	6.38
+3Q-059	F	Progeny	70	59	15.05
+3Q-084	F	Progeny	53	46	6.36
+3Q-093	F	Progeny	70	60	16.01
+3Q-096	F	Progeny	69	60	13.14
+3Q-138	F	Progeny	37	31	1.72
+3Q-139	F	Progeny	35	29	1.42
+3Q-142	F	Progeny	38	34	1.76
+3Q-149	F	Progeny	39	32	2.17
+3Q-206	F	Progeny	77	68	21.61
+3Q-208	F	Progeny	90	80	33.73
+3Q-210	F	Progeny	74	66	18.07
+3Q-215	F	Progeny	75	69	19.08
+3Q-219	F	Progeny	91	81	35.14
+3Q-221	F	Progeny	85	74	22.46
+3Q-225	F	Progeny	100	89	42.58
+3Q-226	F	Progeny	85	75	24.08
+3Q-227	F	Progeny	77	66	18.11
+3Q-233	F	Progeny	77	68	20.1
+3Q-238	F	Progeny	85	74	24.88
+3Q-242	F	Progeny	81	72	22.94
+3Q-245	F	Progeny	98	89	40.83
+3Q-246	F	Progeny	88	77	26.02
+3Q-253	F	Progeny	88	78	30.15
+3Q-256	F	Progeny	103	90	49.37
+3Q-258	F	Progeny	78	69	20.58
+3Q-259	F	Progeny	94	81	36.88
+3Q-266	F	Progeny	79	69	23.33
+3Q-272	F	Progeny	79	71	21.23
+3Q-275	F	Progeny	90	78	32.26
+3Q-276	F	Progeny	87	77	28.01
+3Q-278	F	Progeny	105	94	57.13
+3Q-279	F	Progeny	91	80	30.75
+3Q-282	F	Progeny	106	93	52.87
+3Q-283	F	Progeny	87	78	29.25
+3Q-285	F	Progeny	94	83	29.79
+3Q-290	F	Progeny	76	66	16.95
+3Q-291	F	Progeny	76	68	18.86
+3Q-292	F	Progeny	85	72	26.55
+3Q-295	F	Progeny	82	71	23.6
+3Q-296	F	Progeny	90	79	30.59
+3Q-300	F	Progeny	78	69	20.24
+F03	F	Parent	408	340	3220
+F04	F	Other parent	447	375	4700
+F05	F	Other parent	430	365	3640
+F08	F	Other parent	400	335	2740
+7bQ-246	F	Progeny	62	54	10.45
+7bQ-249	F	Progeny	56	47	7.62
+7bQ-250	F	Progeny	57	52	7.09
+7bQ-258	F	Progeny	62	53	8.88
+7bQ-261	F	Progeny	58	51	7.55
+7bQ-268	F	Progeny	52	44	5.85
+7bQ-276	F	Progeny	71	61	13.76
+7bQ-280	F	Progeny	62	54	10.03
+7bQ-283	F	Progeny	56	47	7.72
+7bQ-287	F	Progeny	55	46	6.53
+7bQ-293	F	Progeny	57	50	7.03
+7bQ-294	F	Progeny	52	45	6.29
+7bQ-298	F	Progeny	52	46	5.4
+7bQ-299	F	Progeny	51	45	4.85
+7bQ-305	F	Progeny	56	48	5.79
+F10	F	Parent	424	350	2760
+F14	F	Other parent	445	370	4280
+F15	F	Other parent	442	365	4060
+F06	F	Other parent	440	365	2780
+F07	F	Other parent	423	355	3000
+F09	F	Other parent	390	330	3120
+F11	F	Other parent	425	350	3320
+F12	F	Other parent	400	335	2500
+F13	F	Other parent	438	365	3120
+F16	F	Other parent	420	348	3020
+F17	F	Other parent	445	365	3620
+10Q-008	M	Progeny	50	42	5.92
+10Q-011	M	Progeny	62	53	12.15
+10Q-046	M	Progeny	48	41	4.89
+10Q-049	M	Progeny	54	46	5.43
+10Q-083	M	Progeny	81	70	24.11
+10Q-090	M	Progeny	45	39	3.67
+10Q-094	M	Progeny	45	38	4.11
+10Q-096	M	Progeny	43	37	3.1
+10Q-099	M	Progeny	40	34	2.32
+10Q-207	M	Progeny	84	73	24.9
+10Q-213	M	Progeny	80	68	24.39
+10Q-235	M	Progeny	70	58	15.38
+10Q-240	M	Progeny	80	68	20.39
+10Q-241	M	Progeny	74	65	16.74
+10Q-244	M	Progeny	67	56	14.74
+10Q-248	M	Progeny	69	60	15.79
+10Q-254	M	Progeny	75	63	18.02
+10Q-256	M	Progeny	76	66	19.5
+10Q-260	M	Progeny	71	61	17.46
+10Q-262	M	Progeny	80	68	22.63
+10Q-263	M	Progeny	75	64	19.82
+10Q-264	M	Progeny	80	70	25.42
+10Q-271	M	Progeny	75	64	16.73
+10Q-275	M	Progeny	81	71	23.55
+10Q-280	M	Progeny	82	72	26.82
+10Q-287	M	Progeny	78	66	21.87
+10Q-290	M	Progeny	80	68	21.4
+10Q-296	M	Progeny	72	62	18.34
+10Q-299	M	Progeny	78	68	21.81
+M10	M	Parent	345	270	1420
+11Q-055	M	Progeny	44	38	3.31
+11Q-075	M	Progeny	46	40	3.92
+11Q-203	M	Progeny	63	54	13.03
+11Q-206	M	Progeny	71	62	14.94
+11Q-216	M	Progeny	57	52	12.55
+11Q-219	M	Progeny	75	65	19.46
+11Q-222	M	Progeny	61	53	9.66
+11Q-224	M	Progeny	86	75	30.07
+11Q-231	M	Progeny	68	61	17.28
+11Q-234	M	Progeny	85	75	29.08
+11Q-237	M	Progeny	75	67	21.89
+11Q-239	M	Progeny	82	71	21.91
+11Q-240	M	Progeny	80	71	23.71
+11Q-256	M	Progeny	77	67	23.36
+11Q-260	M	Progeny	66	58	12.79
+11Q-261	M	Progeny	90	81	37.14
+11Q-262	M	Progeny	72	64	16.39
+11Q-263	M	Progeny	80	72	21.83
+11Q-266	M	Progeny	62	54	10.58
+11Q-270	M	Progeny	72	62	15.47
+11Q-273	M	Progeny	76	67	20.21
+11Q-274	M	Progeny	59	51	9.04
+11Q-277	M	Progeny	75	67	21.13
+11Q-283	M	Progeny	61	52	10.68
+11Q-284	M	Progeny	57	50	9.49
+11Q-288	M	Progeny	74	67	19.02
+11Q-296	M	Progeny	71	61	18.01
+11Q-297	M	Progeny	82	72	23.44
+11Q-298	M	Progeny	92	81	28.66
+11Q-300 	M	Progeny	80	70	21.29
+M11	M	Parent	370	295	1680
+M12	M	Other parent	350	275	1660
+M13	M	Other parent	330	260	1300
+M14	M	Other parent	325	260	1200
+3Q-008	M	Progeny	56	47	7.37
+3Q-017	M	Progeny	46	39	3.32
+3Q-018	M	Progeny	50	43	4.96
+3Q-019	M	Progeny	47	40	3.8
+3Q-027	M	Progeny	62	54	11.74
+3Q-039	M	Progeny	54	46	5.61
+3Q-049	M	Progeny	45	38	3.37
+3Q-061	M	Progeny	56	48	7.74
+3Q-075	M	Progeny	47	39	3.65
+3Q-078	M	Progeny	70	61	16.32
+3Q-080	M	Progeny	60	53	10.6
+3Q-085	M	Progeny	62	54	10.15
+3Q-089	M	Progeny	39	35	2.98
+3Q-091	M	Progeny	54	46	5.81
+3Q-100	M	Progeny	61	53	9
+3Q-105	M	Progeny	38	33	2.44
+3Q-124	M	Progeny	38	34	2.38
+3Q-128	M	Progeny	36	31	1.87
+3Q-130	M	Progeny	33	29	1.24
+3Q-131	M	Progeny	39	34	2.26
+3Q-132	M	Progeny	35	29	1.39
+3Q-134	M	Progeny	37	31	1.92
+3Q-141	M	Progeny	39	33	2.6
+3Q-145	M	Progeny	37	31	1.98
+3Q-152	M	Progeny	41	35	2.52
+3Q-153	M	Progeny	35	30	1.52
+3Q-154	M	Progeny	34	29	1.17
+3Q-157	M	Progeny	35	30	1.63
+3Q-200	M	Progeny	35	29	1.74
+3Q-201	M	Progeny	79	71	23.88
+3Q-203	M	Progeny	81	72	27.42
+3Q-211	M	Progeny	76	67	19.49
+3Q-217	M	Progeny	71	63	17.14
+3Q-220	M	Progeny	85	76	27.53
+3Q-223	M	Progeny	79	72	21.83
+3Q-229	M	Progeny	74	65	17.87
+3Q-230	M	Progeny	91	81	37.74
+3Q-232	M	Progeny	75	68	19.85
+3Q-234	M	Progeny	82	75	28.82
+3Q-237	M	Progeny	82	72	22.6
+3Q-248	M	Progeny	77	67	20.88
+3Q-251	M	Progeny	84	74	27.95
+3Q-252	M	Progeny	75	65	18.32
+3Q-254	M	Progeny	78	71	25.76
+3Q-260	M	Progeny	80	70	21.38
+3Q-261	M	Progeny	86	75	26.27
+3Q-288	M	Progeny	84	75	26.8
+M03	M	Parent	335	272	1560
+M04	M	Other parent	350	285	1660
+M05	M	Other parent	345	275	1380
+M06	M	Other parent	330	270	1240
+7bQ-245	M	Progeny	65	56	10.38
+7bQ-247	M	Progeny	66	63	13.15
+7bQ-248	M	Progeny	62	55	9.9
+7bQ-251	M	Progeny	53	47	6.13
+7bQ-254	M	Progeny	64	55	10.22
+7bQ-257	M	Progeny	57	51	7.11
+7bQ-264	M	Progeny	54	47	6.7
+7bQ-265	M	Progeny	51	45	5.67
+7bq-266	M	Progeny	55	48	6.52
+7bQ-270	M	Progeny	52	45	5.57
+7bQ-271	M	Progeny	55	48	6.23
+7bQ-282	M	Progeny	65	55	10.81
+7bQ-284	M	Progeny	56	47	7.26
+7bQ-286	M	Progeny	59	51	7.2
+7bQ-289	M	Progeny	57	50	8.17
+7bQ-295	M	Progeny	51	44	5.31
+7bQ-296	M	Progeny	54	47	5.75
+7bq-297	M	Progeny	54	47	6.36
+7bQ-300	M	Progeny	55	48	7.58
+7bQ-302	M	Progeny	51	44	5.77
+M07	M	Parent	365	295	1600
+M08	M	Other parent	315	250	1160
+M09	M	Other parent	330	265	1080
