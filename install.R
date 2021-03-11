@@ -1,7 +1,5 @@
-if (!requireNamespace("BiocManager"))
-    install.packages("BiocManager");
+install.packages("BiocManager");
 BiocManager::install("SNPassoc");
-
 install.packages("units");
 install.packages("ape");
 install.packages("adegenet");
@@ -10,3 +8,5 @@ install.packages("vcfR");
 install.packages("RColorBrewer");
 install.packages("tidyr");
 install.packages("ggplot2");
+install.packages("RWeka")
+install.packages("caret")
