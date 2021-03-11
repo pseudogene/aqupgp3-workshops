@@ -1,5 +1,4 @@
-install.packages("BiocManager");
-BiocManager::install("SNPassoc");
+install.packages("SNPassoc");
 install.packages("units");
 install.packages("ape");
 install.packages("adegenet");
