@@ -7,5 +7,5 @@ install.packages("vcfR");
 install.packages("RColorBrewer");
 install.packages("tidyr");
 install.packages("ggplot2");
-install.packages("RWeka")
+install.packages("C50")
 install.packages("caret")
