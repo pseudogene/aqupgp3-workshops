@@ -1,7 +1,6 @@
 install.packages("SNPassoc");
 install.packages("units");
 install.packages("ape");
-install.packages("adegenet");
 install.packages("poppr");
 install.packages("vcfR");
 install.packages("RColorBrewer");
