@@ -1,4 +1,4 @@
-install.packages("SNPassoc");
+#install.packages("SNPassoc");
 install.packages("units");
 install.packages("ape");
 install.packages("poppr");
