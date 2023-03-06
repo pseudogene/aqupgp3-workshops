@@ -1,10 +1,10 @@
-library(devtools)
-install.packages('BiocManager')
-BiocManager::install('VariantAnnotation')
-BiocManager::install('BiocStyle')
-BiocManager::install('TxDb.Hsapiens.UCSC.hg19.knownGene')
-BiocManager::install('org.Hs.eg.db')
-install.packages("SNPassoc")
+library(devtools);
+install.packages('BiocManager');
+BiocManager::install('VariantAnnotation');
+BiocManager::install('BiocStyle');
+BiocManager::install('TxDb.Hsapiens.UCSC.hg19.knownGene');
+BiocManager::install('org.Hs.eg.db');
+install.packages("SNPassoc");
 
 install.packages("adegenet");
 install.packages("units");
